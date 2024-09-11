@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Habilidades de Pokémon</h1>
+    <canvas id="pokemonChart" width="400" height="400"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var ctx = document.getElementById('pokemonChart').getContext('2d');
+        var pokemonAbilities = @Html.Raw(Json.Serialize(ViewBag.PokemonAbilities));
+        var labels = Object.keys(pokemonAbilities);
+        var data = Object.values(pokemonAbilities);
+
+        var myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: '# de Habilidades',
+                    data: data,
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    });
+</script>

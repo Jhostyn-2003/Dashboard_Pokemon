@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Pokemon_grafica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6A1C9-216D-41EE-A542-9E0F54C40BD5}|Pokemon_grafica\\Pokemon_grafica.csproj|c:\\users\\user\\source\\repos\\pokemon_grafica\\pokemon_grafica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6A1C9-216D-41EE-A542-9E0F54C40BD5}|Pokemon_grafica\\Pokemon_grafica.csproj|solutionrelative:pokemon_grafica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6A1C9-216D-41EE-A542-9E0F54C40BD5}|Pokemon_grafica\\Pokemon_grafica.csproj|c:\\users\\user\\source\\repos\\pokemon_grafica\\pokemon_grafica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8F6A1C9-216D-41EE-A542-9E0F54C40BD5}|Pokemon_grafica\\Pokemon_grafica.csproj|solutionrelative:pokemon_grafica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6A1C9-216D-41EE-A542-9E0F54C40BD5}|Pokemon_grafica\\Pokemon_grafica.csproj|c:\\users\\user\\source\\repos\\pokemon_grafica\\pokemon_grafica\\pokemon_grafica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8F6A1C9-216D-41EE-A542-9E0F54C40BD5}|Pokemon_grafica\\Pokemon_grafica.csproj|solutionrelative:pokemon_grafica\\pokemon_grafica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pokemon_grafica",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pokemon_grafica\\Pokemon_grafica\\Pokemon_grafica.csproj",
+              "RelativeDocumentMoniker": "Pokemon_grafica\\Pokemon_grafica.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pokemon_grafica\\Pokemon_grafica\\Pokemon_grafica.csproj",
+              "RelativeToolTip": "Pokemon_grafica\\Pokemon_grafica.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T14:02:09.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pokemon_grafica\\Pokemon_grafica\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pokemon_grafica\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pokemon_grafica\\Pokemon_grafica\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pokemon_grafica\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T14:01:32.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pokemon_grafica\\Pokemon_grafica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pokemon_grafica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pokemon_grafica\\Pokemon_grafica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pokemon_grafica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDEAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:00:35.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
